@@ -1,0 +1,13 @@
+{
+  "modelName": "Plant C",
+  "axiom": "F",
+  "angle": 22.5,
+  "length": 0.5,
+  "iterations": 4,
+  "rules": [
+    {
+      "symbol": "F",
+      "replacement": "FF-[-F+F+F]+[+F-F-F]"
+    }
+  ]
+}

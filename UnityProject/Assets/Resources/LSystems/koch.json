@@ -1,0 +1,13 @@
+{
+  "modelName": "Koch Curve",
+  "axiom": "F",
+  "angle": 60,
+  "length": 0.5,
+  "iterations": 4,
+  "rules": [
+    {
+      "symbol": "F",
+      "replacement": "F+F--F+F"
+    }
+  ]
+}
